@@ -4,7 +4,7 @@ const userController = {
     // get all users
     async getAllUsers(req, res) {
         try {
-            const userData = await User.find().select('-__v')
+            const userData = await User.find().select('-__v');
             res.json(userData);
         } 
         catch (err) {
