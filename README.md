@@ -8,3 +8,4 @@ https://mongoosejs.com/docs/models.html
 https://www.youtube.com/watch?v=_ee38nL13mE
 https://www.youtube.com/watch?v=ldGl6L4Vktk
 https://github.com/cod3rShea/social-media-nodeJS-restAPI-MongoDB
+https://mongoosejs.com/docs/tutorials/virtuals.html
